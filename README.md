@@ -1,4 +1,4 @@
 # JiggleSphere
-A work in progress video DJ/audio visualisation toy made in Processing.
+JiggleSphere is an audio visualisation toy, featuring a sphere that responds to noise.
 
-Uses microphone input to make a sphere jiggle about. Nothing fancy, but quite nice to look at.
+Currently uses three variables to represent frequency range, waveforms, and pretty colors. 
