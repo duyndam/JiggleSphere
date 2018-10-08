@@ -56,7 +56,7 @@ void setup() {
      .setRange(0, 5)
      .setValue(1.1);
   
-  cp5.addToggle("wavyorfreaky")
+  cp5.addToggle("wavy/freaky")
      .setPosition(40,250)
      .setSize(50,20)
      .setValue(true)
